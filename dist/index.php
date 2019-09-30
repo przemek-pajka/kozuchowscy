@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="pl">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="robots" content="index, follow" />
+    <title>Przytulisko dla zwierząt - Kożuchowscy</title>
+    <meta name="author" content="Przemysław Pajka" />
+    <meta name="keywords" content="zwierzęta, przytulisko, pomoc, fundacja, schronisko"/>
+    <meta name="description" content="Przytulisko dla zwierząt">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="icon" href="">
+    <link rel="apple-touch-icon" href="">
+    <!-- Place favicon.ico in the root directory -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Permanent+Marker&display=swap" rel="stylesheet">
+
+  
+    
+    <script type="text/javascript">
+/* First CSS File */
+    var giftofspeed = document.createElement('link');
+    giftofspeed.rel = 'stylesheet';
+    giftofspeed.href = 'https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css';
+    giftofspeed.type = 'text/css';
+    var godefer = document.getElementsByTagName('link')[0];
+    godefer.parentNode.insertBefore(giftofspeed, godefer);
+
+</script>
+    <link rel="stylesheet" href="dist/main.bundle.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div class="front-page">
+        <header id="headerApp" class="header">
+            <div class="container d-flex">
+                <a class="top-logo"> 
+                    <span class="">kożuchowscy
+                    <span class="ending-piece">
+                        <span class="ringring"></span>
+                        <span class="circle"></span>eu
+                    </span>
+                </a>
+                <nav class="top-nav">
+                    <ul class="top-nav__list">
+                        <li><a href="">O nas</a></li>
+                        <li><a href="">Aktualności</a></li>
+                        <li><a href="">Adopcje</a></li>
+                        <li><a href="">Kontakt</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <!-- .container -->
+        </header>
+        <main>
+            <section id="banner-section" class="banner-section">
+                <article class="banner-support">
+                    <h1>Prosimy wesprzyj naszych podopiecznych</h1>  
+                    <p>
+Wszystkich naszych przyjaciół, sympatyków i zwierzolubów
+prosimy o wsparcie naszych działań. <br/><br/><span class="t-bold d-block">PRZYTULISKO KOŻUCHOWSCY</span>
+nr KRS 0000000000<br/>
+Kożuchów 1, Kożuchów 67-120<br/><br/>
+<span class="d-block t-bold">NUMER KONTA:</span>  <span class="t-green">00 0000 0000 0000 0000 0000 0000</span>
+                    </p>
+                </article>
+            </section>
+            <!-- .banner-section -->
+            <section id="aboutUs-section" class="aboutUs-section">
+                <div class="container d-flex">
+                    <div class="col-md-6"> 
+                        <h2 class="section-title">O nas</h2>
+                    </div> 
+                    <div class="col-md-6 t-white aboutUs__content">
+                            <p>Przytulisko powstało z inicjatywy Justyny, która przez wiele lat prowadziła go pomagając okolicznym zwierzętom znajdywać swoich nowych właścicieli. 
+W 2018 roku do zespołu dołączyła Alina, która za główny cel postawiła uruchomienie w Kożuchowie stacjonarnego wolontariatu, dzięki któremu psiaki zamknięte w kojcach zaznają trochę “normalnego życia”. 
+<br/><br/>Czasami, gdy prowadzimy jakieś konkretne akcje takie jak zakup smyczy, obroży, szelek, środków przeciwkleszczowych, akcesoriów, zabawek, karmy, przekąsek, czy tez umieszczamy psy w hotelikach albo leczymy jakieś zwierzęta zwracamy się do Was z prośbą o pomoc :) 
+Jeśli chcesz nas wesprzeć napisz, a na pewno powiemy Ci jak możesz to zrobić :) </p>
+                    </div>
+                </div>
+                <!-- .container   -->
+                <div class="col-mask"></div> 
+            </section>
+            <!-- .aboutUs-section -->
+            <section id="news-section" class="news-section">
+                <div class="container">
+                    <h2 class="section-title">Aktualności</h2>
+                    <div class="news__row d-flex">
+                        <a class="news__item" href="#">
+                             <figure>
+                                <img src="img/news-av.jpg">
+                                <figcaption class="news__title">Czarek szuka nowego domu</figcaption>
+                            </figure>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet nunc eget velit fermentum mollis nec sit amet quam. Duis ac ultrices velit. Morbi dapibus iaculis consectetur. Aenean vel felis mattis, placerat ante et, sollicitudin metus.</p>
+                        </a>
+                        <a class="news__item" href="#">
+                             <figure>
+                                <img src="img/news-av.jpg">
+                                <figcaption class="news__title">Czarek szuka nowego domu</figcaption>
+                            </figure>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet nunc eget velit fermentum mollis nec sit amet quam. Duis ac ultrices velit. Morbi dapibus iaculis consectetur. Aenean vel felis mattis, placerat ante et, sollicitudin metus.</p>
+                        </a>
+                        <a class="news__item" href="#">
+                             <figure>
+                                <img src="img/news-av.jpg">
+                                <figcaption class="news__title">Czarek szuka nowego domu</figcaption>
+                            </figure>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet nunc eget velit fermentum mollis nec sit amet quam. Duis ac ultrices velit. Morbi dapibus iaculis consectetur. Aenean vel felis mattis, placerat ante et, sollicitudin metus.</p>
+                        </a>
+                    </div>
+                    <!-- .news__row -->
+                    <a class="more__link"href="">Więcej aktualności</a>
+                </div>
+                <!-- .container -->
+            </section>
+            <!-- .news-section -->
+            <section class="adoptions-section" id="adoptions-section">
+                <div class="container">
+                    <h2 class="section-title">Adopcje</h2>
+                    <blockquote cite="https://naszefutrzaki.eu/">"Najlepszym przyjacielem jest ktoś<br>kto cię kocha, gdy zapomnisz siebie kochać."</blockquote>
+                    <div class="adoption__desc">Nadrzędnym celem naszej strony jest pomoc w znalezieniu stałych domów dla bezdomnych, porzuconych zwierząt potrzebujących pomocy człowieka. <a href="#">Więcej szczegółów o adopcji</a></div>
+                </div>
+                <!-- .container -->
+            </section>
+            <!-- .adoptions-section -->
+            <footer class="footer-contact" id="footer-contact">
+                <div class="container">
+                    <h2 class="section-title">Kontakt</h2>
+                    <div class="contact-details__row">
+                        <div class="contact-details__item">
+                            <div class="contact-icon phone-icon"></div>
+                            <div class="contact-info">
+                                <span class="icon-header">Telefon</span>
+                                <div class="icon-description"><p><a href="tel:889018759">889-018-759</a></p></div>
+                            </div>
+                            <!-- .contact-info -->
+                        </div>
+                        <!-- .contact-details__item -->
+                        <div class="contact-details__item">
+                            <div class="contact-icon address-icon"></div>
+                            <div class="contact-info">
+                                <span class="icon-header">Adres</span>
+                                <div class="icon-description"><p>Kożuchów 1, Kożuchów 67-120</p></div>
+                            </div>
+                            <!-- .contact-info -->
+                        </div>
+                        <!-- .contact-details__item -->
+                        <div class="contact-details__item">
+                            <div class="contact-icon email-icon"></div>
+                            <div class="contact-info">
+                                <span class="icon-header">Email</span>
+                                <div class="icon-description"><p><a href="mailto:adopcjekozuchow@gmail.com">adopcjekozuchow@gmail.com</a></p></div>
+                            </div>
+                            <!-- .contact-info -->
+                        </div>
+                        <!-- .contact-details__item -->
+                    </div>
+                    <!-- .contact-details__row -->
+                    <div style="display:none;">Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div><div style="display:none;">Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a></div>
+                </div>
+                <!-- .container -->
+                <div class="copyright-info">
+                    <div class="container">
+                        <div class="website-author">Realizacja: Przemysław Pajka , tel: 512-182-280 , Facebook: <a href="https://www.facebook.com/przemek.hoon">Przemysław Pajka</a> </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- .footer-contact -->
+        </main>
+    </div>
+    <!-- .front-page -->
+
+
+
+    <script async src="../js/main.js"></script> 
+   
+
+    <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+    <script>
+        window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+        ga('create', 'UA-XXXXX-Y', 'auto'); ga('send', 'pageview')
+    </script> 
+    <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+
+
+
+</body>
+
+</html>
